@@ -1,4 +1,4 @@
-# Money Monkey
+# Money Monkey - Em Desenvolvimento 🕹
 
 Money Monkey é um projeto pessoal onde irei simular um serviço de processamento de pagamentos para integrar com gateways de pagamento, processar transações e gerenciar reembolsos de forma segura, escalável e eficiente.
 De inicio, irei integrar somente com a Stripe.
