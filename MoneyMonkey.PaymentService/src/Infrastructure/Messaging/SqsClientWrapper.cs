@@ -2,5 +2,5 @@
 
 public class SqsClientWrapper
 {
-    
+    // Por ora, deixamos vazio.
 }

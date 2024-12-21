@@ -1,6 +1,10 @@
-﻿namespace DefaultNamespace;
+﻿using MoneyMonkey.PaymentService.Domain.Entities;
 
-public class IPaymentGateway
+namespace MoneyMonkey.PaymentService.Domain.Interfaces
 {
-    
+    public interface IPaymentGateway
+    {
+        void Charge(Payment payment);
+        void Refund(Payment payment, decimal amount);
+    }
 }
