@@ -10,3 +10,5 @@ De inicio, irei integrar somente com a Stripe.
 - Manutenção de Logs e Rastreamento: Utilizando AWS CloudWatch e X-Ray para monitoramento e depuração.
 - Escalabilidade e Alta Disponibilidade: Configuração para autoscaling com AWS ECS/Fargate ou AWS Lambda. (A decidir o melhor serviço)
 - Segurança Avançada: Criptografar os dados sensíveis usando AWS KMS.
+
+![Money_Monkey_Logo](https://github.com/user-attachments/assets/fc266ec8-6d92-4321-8343-29f9337fe9b4)
